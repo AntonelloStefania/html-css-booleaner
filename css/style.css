@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/* tag-header */
+.banner-superiore{ 
+    background-color: rgb(49, 138, 211);
+    height: 130px;
+    background-image: url(../img/pattern.png);
+    background-size: 550px;
+    
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15%;
+}
+/* fine tag-header */
