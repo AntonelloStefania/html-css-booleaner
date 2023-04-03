@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/* tag-header */
+.banner-superiore{ 
+    background-color: rgb(49, 138, 211);
+    height: 130px;
+    background-image: url(../img/pattern.png);
+    background-size: 550px;
+}
+#logo{
+    width: 180px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15%;
+   }
+/* fine tag-header */
+/* inizio tag main */
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+#link{
+    color:rgb(59, 183, 231);
+}
+#data{
+    font-size:10px;
+    display: block;
+    padding-bottom:20px;
+}
+.foto-Lee{
+    width:600px;
+    height: 500px;
+}
+#caption{
+    display: block;
+    font-size: 10px;
+}
+.articolo{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+#lista{
+    padding-left: 17px;
+}
+table{
+    margin: 30px 10px 30px 10px;
+    border-collapse: collapse;
+}
+#thead{
+    background-color: rgb(61, 170, 233);
+    text-align: left;
+    color: white;
+    }
+.dispari{
+    background-color: lightblue;
+}
+.elemento{
+    width: 20%;
+}
+/* fine tag main */
+/* inizio tag footer */
+#consigli{
+    color: rgb(145, 157, 170);
+    font-weight: bold;
+}
+.monitor{
+    background-image:url(../img/monitor.jpg);
+    display: block;
+    width:200px;
+    height:150px; 
+    margin-bottom: 15px; 
+    margin-top: 15px;  
+}
+.grafico{
+    background-image: url(../img/graph.jpg);
+    display: block;
+    width: 200px;
+    height:150px;
+}
+.adv{
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
