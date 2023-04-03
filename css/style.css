@@ -19,6 +19,19 @@
    }
 /* fine tag-header */
 /* inizio tag main */
-ul{
-    padding-left: 30px;
+.articolo{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+#lista{
+    padding-left: 17px;
+}
+table{
+    padding-top: 20px;
+}
+#thead{
+    background-color: rgb(61, 170, 233);
+}
+.dispari{
+    background-color: lightblue;
 }
