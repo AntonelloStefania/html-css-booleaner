@@ -27,11 +27,17 @@
     padding-left: 17px;
 }
 table{
-    padding-top: 20px;
+    margin: 30px 10px 30px 10px;
+    border-collapse: collapse;
 }
 #thead{
     background-color: rgb(61, 170, 233);
-}
+    text-align: left;
+    color: white;
+    }
 .dispari{
     background-color: lightblue;
+}
+.elemento{
+    width: 25%;
 }
